@@ -1,4 +1,3 @@
-<textarea rows="35" cols="100" readonly>
 # 🎂 Age Calculator
 
 This is a simple and responsive **JavaScript Age Calculator** web app. You enter your date of birth, and it tells you your age in years, months, and days.
